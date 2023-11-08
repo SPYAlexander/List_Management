@@ -1,14 +1,15 @@
 {
   "name": "netcentric-simple-list-project",
   "version": "1.0.0",
-  "description": "Simple List Group Project for Netcentric Class",
+  "description": "Simple List Project for Netcentric Class",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kyle, Adalberto, Karthik, Aman",
+  "author": "Alex",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }

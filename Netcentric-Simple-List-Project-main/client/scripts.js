@@ -67,7 +67,7 @@ function httpDelete(e) {
 
 // Loading functions
 function showLoading() {
-  result.innerHTML = "Loading...";
+  result.innerHTML = "I am loading...";
 }
 
 async function main() {
