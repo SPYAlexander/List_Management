@@ -1,4 +1,3 @@
-// Done by Nov 2023
 const fs = require("fs/promises")
 
 async function ReadData() {
