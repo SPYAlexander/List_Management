@@ -5,7 +5,7 @@
 #headerDiv {
     margin: 20px;
     padding: 5px;
-    border: 10px solid black;
+    border: 10px solid skyblue;
 }
 
 #twoColContainer{
@@ -13,7 +13,7 @@
     margin-top: 40px;
     margin-bottom: 40px;
     padding: 20px;
-    border: 10px solid black;
+    border: 10px solid skyblue;
 }
 
 .column{
@@ -22,5 +22,5 @@
 }
 
 h3 {
-    border-bottom: 5px solid black;
+    border-bottom: 5px solid skyblue;
 }
